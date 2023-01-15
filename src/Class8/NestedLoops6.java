@@ -28,13 +28,13 @@ public class NestedLoops6 {
 
                  //unique shape output
 
-       /* for (int i = 0; i <=5 ; i++) {
+        for (int i = 0; i <=5 ; i++) {
             for (int j= i; j <=5 ; j++) {
             System.out.print(j+" ");
 
         }
             System.out.println();
-    }*/
+    }
                  //second way
         for (int i = 0; i < 3; i++) {
             for (int j = i; j <= 5 ; j++) {
