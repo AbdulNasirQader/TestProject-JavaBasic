@@ -1,8 +1,8 @@
-package Class29;
+package Class30;
 
 import java.util.TreeSet;
 
-public class TaskSets1 {
+public class Task3 {
     public static void main(String[] args) {
 
         /*
@@ -11,7 +11,7 @@ public class TaskSets1 {
         Using 2 different ways retrieve all elements from set.
         */
 
-        TreeSet<String> countries= new TreeSet<>();
+        TreeSet<String> countries = new TreeSet<>();
         countries.add("USA");
         countries.add("Mexico");
         countries.add("Canada");
